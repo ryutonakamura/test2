@@ -1,280 +1,519 @@
-Dog
-Cat
-Elephant
-Tiger
-Dolphin
-Foods
-Apple
-Bread
-Cheese
-Pizza
-Sushi
-Everyday items
-Chair
-Table
-Pen
-Notebook
-Lamp
-Nature
-Mountain
-River
 Ocean
+
 Forest
+
 Desert
-Feeeling
+
+Feeling
+
 Happiness
+
 Sadness
+
 Anger
+
 Fear
+
 Love
-occupation
+
+Occupation
+
 Teacher
+
 Doctor
+
 Engineer
+
 Artist
+
 Chef
-vehicle
+
+Vehicle
+
 Car
+
 Bicycle
+
 Airplane
+
 Train
+
 Boat
+
 Sports
+
 Soccer
+
 Basketball
+
 Tennis
+
 Baseball
+
 Swimming
+
 Animals
+
 Lion
+
 Giraffe
+
 Kangaroo
+
 Penguin
+
 Whale
+
 Foods
+
 Banana
+
 Chocolate
+
 Pasta
+
 Salad
-Icecream
-Everydayitems
+
+Ice cream
+
+Everyday items
+
 Phone
+
 Computer
+
 Backpack
+
 Glasses
+
 Clock
+
 Nature
+
 Volcano
+
 Glacier
+
 Canyon
+
 Waterfall
+
 Meadow
+
 Feelings
+
 Joy
+
 Surprise
+
 Disgust
+
 Envy
+
 Pride
+
 Occupations
+
 Lawyer
+
 Nurse
+
 Scientist
+
 Writer
+
 Pilot
+
 Vehicles
+
 Motorcycle
+
 Scooter
+
 Helicopter
+
 Submarine
+
 Truck
+
 Sports
+
 Golf
+
 Rugby
+
 Cricket
+
 Volleyball
+
 Gymnastics
+
 Colors
+
 Red
+
 Blue
+
 Green
+
 Yellow
+
 Purple
+
 Clothing
+
 Shirt
+
 Pants
+
 Jacket
+
 Shoes
+
 Hat
-Bodyparts
+
+Body parts
+
 Head
+
 Arm
+
 Leg
+
 Eye
+
 Ear
+
 Furniture
+
 Sofa
+
 Bed
+
 Wardrobe
+
 Bookshelf
+
 Mirror
+
 Technology
+
 Tablet
+
 Printer
+
 Camera
+
 Television
+
 Headphones
+
 Weather
+
 Rain
+
 Snow
+
 Wind
+
 Thunder
+
 Fog
+
 Buildings
+
 House
+
 Apartment
+
 Office
+
 School
+
 Hospital
+
 Transportation
+
 Bus
+
 Taxi
+
 Ferry
+
 Tram
+
 Metro
+
 Plants
+
 Tree
+
 Flower
+
 Grass
+
 Bush
+
 Cactus
+
 Tools
+
 Hammer
+
 Screwdriver
+
 Wrench
+
 Saw
+
 Drill
-Musicalinstruments
+
+Musical instruments
+
 Guitar
+
 Piano
+
 Violin
+
 Drum
+
 Tokyo Skytree (Tokyo)
+
 Mount Fuji (Shizuoka/Yamanashi)
+
 Kiyomizu-dera Temple (Kyoto)
+
 Nara Park (Nara)
+
 Himeji Castle (Hyogo)
+
 Sapporo Clock Tower (Hokkaido)
+
 Okinawa Churaumi Aquarium (Okinawa)
+
 Nikko Toshogu Shrine (Tochigi)
+
 Hakone Onsen (Kanagawa)
+
 Kinkaku-ji (Golden Pavilion) (Kyoto)
+
 Ginkaku-ji (Silver Pavilion) (Kyoto)
+
 Senso-ji Temple (Tokyo)
+
 Hiroshima Peace Memorial (Atomic Bomb Dome) (Hiroshima)
+
 Miyajima (Itsukushima Shrine) (Hiroshima)
+
 Matsumoto Castle (Nagano)
+
 Kenrokuen Garden (Ishikawa)
+
 Takachiho Gorge (Miyazaki)
+
 Beppu Onsen (Oita)
+
 Shirakawa-go (Gifu)
+
 Takayama (Gifu)
+
 Tateyama Kurobe Alpine Route (Toyama)
+
 Tsunoshima (Yamaguchi)
+
 Naruto Whirlpools (Tokushima)
+
 Dogo Onsen (Ehime)
+
 Katsurahama Beach (Kochi)
+
 Dazaifu Tenmangu Shrine (Fukuoka)
+
 Huis Ten Bosch (Nagasaki)
+
 Kumamoto Castle (Kumamoto)
+
 Sakurajima (Kagoshima)
+
 Mount Hakodate (Hokkaido)
+
 Hirosaki Castle (Aomori)
+
 Koiwai Farm (Iwate)
+
 Matsushima Bay (Miyagi)
+
 Sendai Umino-Mori Aquarium (Miyagi)
+
 Naruko Onsen (Miyagi)
+
 Akiu Onsen (Miyagi)
+
 Zuihoden Mausoleum (Miyagi)
+
 Sendai Castle Ruins (Miyagi)
+
 Kotohira-gu Shrine (Kagawa)
+
 Yahiko Shrine (Niigata)
+
 Albert Einstein
+
 William Shakespeare
+
 Leonardo da Vinci
+
 Marie Curie
+
 Mahatma Gandhi
+
 Martin Luther King Jr.
+
 Nelson Mandela
+
 Abraham Lincoln
+
 Winston Churchill
+
 Mother Teresa
+
 Charles Darwin
+
 Isaac Newton
+
 Ludwig van Beethoven
+
 Vincent van Gogh
+
 Pablo Picasso
+
 Wolfgang Amadeus Mozart
+
 Elvis Presley
+
 Michael Jackson
+
 Marilyn Monroe
+
 Audrey Hepburn
+
 Steve Jobs
+
 Bill Gates
+
 Mark Zuckerberg
+
 Jeff Bezos
+
 Elon Musk
+
 Oprah Winfrey
+
 J.K. Rowling
+
 Stephen Hawking
+
 Neil Armstrong
+
 Christopher Columbus
+
 Alexander the Great
+
 Julius Caesar
+
 Cleopatra
+
 Queen Elizabeth II
+
 Barack Obama
+
 Donald Trump
+
 Vladimir Putin
+
 Angela Merkel
+
 Mahatma Gandhi
+
 Dalai Lama
+
 American Airlines
+
 Delta Air Lines
+
 United Airlines
+
 Southwest Airlines
+
 British Airways
+
 Air France
+
 Lufthansa
+
 Emirates
+
 Qatar Airways
+
 Singapore Airlines
+
 Cathay Pacific
+
 Japan Airlines (JAL)
+
 All Nippon Airways (ANA)
+
 Qantas
+
 Air Canada
+
 Turkish Airlines
+
 KLM Royal Dutch Airlines
+
 Etihad Airways
+
 Korean Air
+
 China Southern Airlines
+
 China Eastern Airlines
+
 Aeroflot
+
 Thai Airways
+
 Malaysia Airlines
+
 Philippine Airlines
+
 Garuda Indonesia
+
 EVA Air
+
 Finnair
+
 SAS (Scandinavian Airlines)
+
 Swiss International Air Lines
+
 Austrian Airlines
+
 Alitalia
+
 Iberia
+
 Aer Lingus
+
 Virgin Atlantic
+
 Ryanair
+
 EasyJet
+
 JetBlue Airways
+
 Alaska Airlines
+
 Hawaiian Airlines
